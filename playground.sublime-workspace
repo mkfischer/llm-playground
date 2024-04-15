@@ -1,0 +1,686 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"current_date"
+			],
+			[
+				"confi",
+				"config_data"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"con",
+				"config_file_path"
+			],
+			[
+				"conf",
+				"config_file_path"
+			],
+			[
+				"local",
+				"local_manager_llm"
+			],
+			[
+				"cre",
+				"crew_llm"
+			],
+			[
+				"a",
+				"async_execution"
+			],
+			[
+				"llm",
+				"llm_to_use"
+			],
+			[
+				"co",
+				"configuration"
+			],
+			[
+				"dev",
+				"development_task"
+			],
+			[
+				"ca",
+				"coach_llm"
+			],
+			[
+				"In",
+				"InMemoryDocumentStore"
+			],
+			[
+				"gen",
+				"generator"
+			],
+			[
+				"open",
+				"openrouter_model"
+			],
+			[
+				"oll",
+				"ollama_temp"
+			],
+			[
+				"net",
+				"network_available"
+			],
+			[
+				"lo",
+				"local_available"
+			],
+			[
+				"ne",
+				"network_ollama"
+			],
+			[
+				"mo",
+				"model_to_use"
+			],
+			[
+				"es",
+				"escalate"
+			],
+			[
+				"Con",
+				"ConversationMemory"
+			],
+			[
+				"ab",
+				"absolute_path_to_config"
+			],
+			[
+				"ses",
+				"session_memory"
+			],
+			[
+				"cur",
+				"current_session_memory"
+			],
+			[
+				"se",
+				"session_memory"
+			],
+			[
+				"show",
+				"show_sources_on"
+			],
+			[
+				"rag",
+				"rag_chain_with_source"
+			],
+			[
+				"get",
+				"get_retriever"
+			],
+			[
+				"ex",
+				"expanded_user_input"
+			],
+			[
+				"RAN",
+				"RANDOMNUMBER"
+			],
+			[
+				"em",
+				"embeddings"
+			],
+			[
+				"embe",
+				"embedding_chooser"
+			],
+			[
+				"da",
+				"database_path"
+			],
+			[
+				"vec",
+				"vector_db"
+			],
+			[
+				"side",
+				"sidebar_model"
+			],
+			[
+				"Succe",
+				"successfully"
+			],
+			[
+				"cone",
+				"clone_repository"
+			],
+			[
+				"clone",
+				"clone_repository"
+			],
+			[
+				"Sre",
+				"streamlit_init"
+			],
+			[
+				"load",
+				"load_documents"
+			],
+			[
+				"doc",
+				"documents"
+			],
+			[
+				"loa",
+				"load_documents"
+			],
+			[
+				"repo",
+				"repo_path"
+			],
+			[
+				"emb",
+				"embedding_chooser"
+			],
+			[
+				"ve",
+				"vector_database"
+			],
+			[
+				"gith",
+				"github_branch"
+			],
+			[
+				"githu",
+				"github_url"
+			],
+			[
+				"re",
+				"repository_nature"
+			],
+			[
+				"git",
+				"git_form"
+			],
+			[
+				"GITHUB",
+				"GITHUB_USERNAME"
+			],
+			[
+				"GITH",
+				"GITHUB_REPO"
+			],
+			[
+				"G",
+				"GITHUB_BRANCH"
+			],
+			[
+				"OP",
+				"OPENROUTER_HIGH"
+			],
+			[
+				"Op",
+				"OPENROUTER_MEDIUM"
+			],
+			[
+				"GITHU",
+				"GITHUB_URL"
+			],
+			[
+				"cod",
+				"code_str"
+			],
+			[
+				"REP",
+				"REPOSITORY_FILE_PATH"
+			],
+			[
+				"tar",
+				"traceback_filepath"
+			],
+			[
+				"fak",
+				"fake_address"
+			],
+			[
+				"par",
+				"parse_faker_address"
+			],
+			[
+				"or",
+				"organization_country"
+			],
+			[
+				"ran",
+				"randomly_chosen_locale"
+			],
+			[
+				"orga",
+				"organization_data_list"
+			],
+			[
+				"rand",
+				"randomly_chosen_locale"
+			],
+			[
+				"cou",
+				"country_names"
+			],
+			[
+				"country",
+				"country_name"
+			],
+			[
+				"org",
+				"organization_suffix"
+			],
+			[
+				"gener",
+				"generate_mock_data"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"Se",
+				"SecurityClassification"
+			],
+			[
+				"user",
+				"user_organization"
+			],
+			[
+				"de",
+				"delete-account"
+			],
+			[
+				"delete",
+				"delete_account"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"pas",
+				"PasswordInput"
+			],
+			[
+				"passwor",
+				"password1"
+			],
+			[
+				"fix",
+				"fixed_input"
+			],
+			[
+				"adm",
+				"admin_url"
+			],
+			[
+				"create",
+				"create_thought"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"aut",
+				"authenticate"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"br",
+				"rb"
+			],
+			[
+				"bascom",
+				"bashcom\tcomment_snippet"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Django:",
+				"Django: Check"
+			],
+			[
+				"Django:run",
+				"Django: Run Server"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mfischer/Development/llm-playground"
+	],
+	"file_history":
+	[
+		"/Users/mfischer/Development/itanic/chat.py",
+		"/Users/mfischer/Development/itanic/src/constants.py",
+		"/Users/mfischer/Development/itanic/app.py",
+		"/Users/mfischer/.ollama/downloaded/Modelfile",
+		"/Users/mfischer/Development/itanic/writer.py",
+		"/Users/mfischer/Development/itanic/prompt.txt",
+		"/Users/mfischer/Development/itanic/config.yaml",
+		"/Users/mfischer/Development/itanic/coding/coding/passphrase.txt",
+		"/Users/mfischer/Development/itanic/debug_pod_eviction.py",
+		"/Users/mfischer/Development/itanic/pyproject.toml",
+		"/Users/mfischer/Library/Application Support/Sublime Text/Packages/TabToSpaceConverter/README.md",
+		"/Users/mfischer/Library/Application Support/Sublime Text/Packages/ConvertTabsToSpaces/ConvertTabsToSpaces.py",
+		"/Users/mfischer/.scripts/script.sh",
+		"/Users/mfischer/Development/itanic/README.md",
+		"/Users/mfischer/.bashrc",
+		"/Users/mfischer/Downloads/crewai_clean-0.22.5/README.md",
+		"/Users/mfischer/Development/AutoGPT/.env",
+		"/Users/mfischer/Development/illfated/config.yaml",
+		"/Users/mfischer/Development/illfated/writer_main.py",
+		"/Users/mfischer/Development/illfated/new-blog-post.md",
+		"/Users/mfischer/Development/illfated/agents/pplx.py",
+		"/Users/mfischer/Development/illfated/docker-compose.yaml",
+		"/Users/mfischer/Library/Application Support/espanso/match/base.yml",
+		"/Users/mfischer/Development/illfated/security_analyst.py",
+		"/Users/mfischer/Development/illfated/agents/sdlc.py",
+		"/Users/mfischer/Development/illfated/main.py",
+		"/Users/mfischer/Development/illfated/agents/developer.py",
+		"/Users/mfischer/Development/illfated/agents/agile.py",
+		"/Users/mfischer/Development/illfated/functions/openrouter.py",
+		"/Users/mfischer/Development/illfated/functions/tasks.py",
+		"/Users/mfischer/Development/illfated/app.py",
+		"/Users/mfischer/Development/illfated/functions/agents.py",
+		"/Users/mfischer/Development/illfated/functions/constants.py",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/documentationClass.py",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/constants.py",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/git.py",
+		"/Users/mfischer/Development/illfated/pyproject.toml",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/documentWriterPipeline.py",
+		"/Users/mfischer/Development/next-gen-repochat/altPages/schema.py",
+		"/Users/mfischer/Development/next-gen-repochat/documentation_schema.json",
+		"/Users/mfischer/Development/next-gen-repochat/yaml_output_prompt.txt",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/agents.py",
+		"/Users/mfischer/Development/next-gen-repochat/altPages/index.py",
+		"/Users/mfischer/Development/next-gen-repochat/app.py",
+		"/Users/mfischer/Development/next-gen-repochat/altPages/chat.py",
+		"/Users/mfischer/Development/next-gen-repochat/yaml_work.txt",
+		"/Users/mfischer/Development/next-gen-repochat/altPages/yaml_work.txt",
+		"/Users/mfischer/Development/next-gen-repochat/chat.py",
+		"/Users/mfischer/Development/next-gen-repochat/pyproject.toml",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/utils.py",
+		"/Users/mfischer/Development/next-gen-repochat/answer.txt",
+		"/Users/mfischer/Development/next-gen-repochat/config.yaml",
+		"/Users/mfischer/Development/next-gen-repochat/requirements.txt",
+		"/Users/mfischer/Downloads/27_First_RAG_Pipeline.ipynb",
+		"/Users/mfischer/Development/repochat/repochat/models.py",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/vectorDB.py",
+		"/Users/mfischer/Development/repochat/app.py",
+		"/Users/mfischer/Development/repochat/altPages/index.py",
+		"/Users/mfischer/Development/next-gen-repochat/repochat/models.py",
+		"/Users/mfischer/Development/next_gen_repochat/config.yaml",
+		"/Users/mfischer/Development/next_gen_repochat/repochat/constants.py",
+		"/Users/mfischer/Development/next_gen_repochat/app.py",
+		"/Users/mfischer/Development/next_gen_repochat/models.py",
+		"/Users/mfischer/Development/next_gen_repochat/constants.py",
+		"/Users/mfischer/Development/repochat/config.yaml",
+		"/Users/mfischer/Development/repochat/repochat/multiQueryChain.py",
+		"/Users/mfischer/Development/repochat/test.py",
+		"/Users/mfischer/Development/repochat/example_config.txt",
+		"/Users/mfischer/Development/repochat/altPages/viewEditConfiguration.py",
+		"/Users/mfischer/Development/repochat/prompt.txt",
+		"/Users/mfischer/Development/repochat/repochat/constants.py",
+		"/Users/mfischer/Development/repochat/repochat/git.py",
+		"/Users/mfischer/Development/repochat/helper.py",
+		"/Users/mfischer/Development/repochat/repochat/utils.py",
+		"/Users/mfischer/Development/repochat/repochat/db.py",
+		"/Users/mfischer/Development/repochat/working.txt",
+		"/Users/mfischer/Development/repochat/rag_lcel.py",
+		"/Users/mfischer/Development/repochat/repochat/chain.py",
+		"/Users/mfischer/Development/repochat/requirements.txt",
+		"/Users/mfischer/Development/repochat/repochat/temp.py",
+		"/Users/mfischer/Development/repochat/repochat/old_chain.py",
+		"/Users/mfischer/Development/repochat/repochat/agi_chain.py",
+		"/Users/mfischer/Development/repochat/repochat/configmaker.py",
+		"/Users/mfischer/Development/repochat/app_optimized.py",
+		"/Users/mfischer/Development/repochat/repochat/testing.py",
+		"/Users/mfischer/Development/repochat/retrievers_learning.txt",
+		"/Users/mfischer/Development/repochat/repochat/next_db.py",
+		"/Users/mfischer/Downloads/retrievers_learning.md",
+		"/Users/mfischer/Development/repochat/branch_cleaner.py",
+		"/Users/mfischer/Development/repochat/skriker-initial-prompt.txt",
+		"/Users/mfischer/Development/repochat/skriker/skriker_contstants.py",
+		"/Users/mfischer/Development/repochat/skriker/siphon.py",
+		"/Users/mfischer/Development/repochat/repochat/fetcher.py",
+		"/Users/mfischer/Development/repochat/repo_electricramblers_repochat/repochat/models.py",
+		"/Users/mfischer/Development/repochat/feedback_system.py",
+		"/Users/mfischer/Documents/Prompt Examples/costar",
+		"/Users/mfischer/Development/repochat/pyproject.toml",
+		"/Users/mfischer/Development/repochat/repochat/openrouter.py",
+		"/Users/mfischer/Development/repochat/policies.md",
+		"/Users/mfischer/Development/repochat/config_file_example.md",
+		"/Users/mfischer/Development/repochat/application_summary.md",
+		"/Users/mfischer/Development/repochat/keep_for_a_second.txt",
+		"/Users/mfischer/Development/repochat/notes.txt",
+		"/Users/mfischer/Development/chat-with-github/agent.py",
+		"/Users/mfischer/Development/chat-with-github/prompt.txt",
+		"/Users/mfischer/Development/chat-with-github/config.yaml",
+		"/Users/mfischer/Development/chat-with-github/requirements.txt",
+		"/Users/mfischer/Development/chat-with-github/helper.py",
+		"/Users/mfischer/Development/chat-with-github/.gitignore",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/src/scraper.py",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/chat.py",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/prompt.txt",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/helper.py",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/.env",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/main.py",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/repos_content/electricramblers_fizzbuzz/electricramblers_fizzbuzz_file_paths.txt",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/repos_content/electricramblers_umqulu/electricramblers_umqulu_file_paths.txt",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/pyproject.toml",
+		"/Users/mfischer/Development/chat-with-repo-langchain-openai/requirements.txt",
+		"/Users/mfischer/Development/Chat-with-github-repo-langchain/requirements.txt",
+		"/Users/mfischer/Development/code-chat/dilbert.py",
+		"/Users/mfischer/Development/repochat/.env",
+		"/Users/mfischer/Development/code-chat/original_dilbert.py",
+		"/Users/mfischer/Development/repo-chat/embed.py",
+		"/Users/mfischer/Development/repo-chat/main.py",
+		"/Users/mfischer/Development/repo-chat/load.py",
+		"/Users/mfischer/Development/repo-chat/.env",
+		"/Users/mfischer/Development/repo-chat/huggingface-sentence-transformers-schema.sql"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "playground.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 501.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/repochat/reposhat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
